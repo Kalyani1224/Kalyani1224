@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there 👋 I am Kalyani 
 
-<!--
-**Kalyani1224/Kalyani1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I make jokes when i am uncomfortable🤔
 
-Here are some ideas to get you started:
+ 
+ 🎯 Curiosity fuels my quest for knowledge, and I am constantly exploring new technologies and trends in the dynamic realm of computer engineering 🌐.
+ 🔭When I'm not immersed in code, you can find me exploring my creative side through photography 📸 or immersing myself in the fascinating world of literature 📚.
+ ⚡As an advocate of continuous improvement, I believe that learning extends beyond the classroom, and I am committed to contributing to open-source projects to enhance the technology landscape 🌱.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<Feel free to share your highlights and connect with me on linkedin)/>
+ 
+
