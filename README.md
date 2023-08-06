@@ -10,10 +10,10 @@
     enhance the technology landscape 🌱.
     
     
-            ![chandler 2](https://github.com/Kalyani1224/Kalyani1224/assets/104186615/57850645-3231-4709-8a7a-3224f77eca28)
+ ![chandler 2](https://github.com/Kalyani1224/Kalyani1224/assets/104186615/57850645-3231-4709-8a7a-3224f77eca28)
 
 
  
-                               <Feel free to share your highlights and connect with me on linkedin)/>
+<Feel free to share your highlights and connect with me on linkedin)/>
  
 
